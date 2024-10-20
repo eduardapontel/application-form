@@ -1,6 +1,14 @@
-# Stars of Tomorrow Enrollment Form 🌟
+# Estrelas do Amanhã Enrollment Form 🌟
 
-Welcome to the **Stars of Tomorrow** enrollment form! This project features a registration form for a preschool named "Stars of Tomorrow". It is designed to collect information about children enrolling in the school, including personal details, medical information, and preferences for study shifts and sports activities.
+Welcome to the **Estrelas do Amanhã** enrollment form! This project features a registration form for a preschool named "Estrelas do Amanhã". It is designed to collect information about children enrolling in the school, including personal details, medical information, and preferences for study shifts and sports activities.
+
+<br>
+
+## Layout ✏️
+
+The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1365016793556649696/formulario-de-matricula).
+
+The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
 
 <br>
 
