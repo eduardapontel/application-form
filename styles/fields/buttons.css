@@ -19,12 +19,23 @@ button {
     &.btn-secondary {
         margin-left: auto;
         border: 1px solid var(--text-highlight);
-        
+
         &:hover,
         &:focus {
             color: #e43a12;
             outline: 0.25rem solid var(--surface-secondary);
         }
     }
+}
 
+@media (width <= 50em) {
+    .address > .flex {
+        flex-direction: column;
+        gap: 1.25rem;
+    }
+
+    button {
+        margin: 0 !important;
+        text-align: center;
+    }
 }

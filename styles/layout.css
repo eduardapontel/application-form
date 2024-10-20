@@ -35,7 +35,7 @@ aside {
     & .aside-container {
         max-width: 31rem;
 
-        & > img{
+        & > img {
             margin-top: 2rem;
         }
     }
@@ -46,5 +46,30 @@ aside {
         & span {
             color: var(--text-highlight);
         }
+    }
+}
+
+@media (width <= 50em) {
+    #app {
+        grid-template-rows: auto;
+        grid-template-columns: 100%;
+        overflow-y: auto;
+    }
+
+    aside {
+        grid-row: 1;
+        padding: 1.5rem;
+        text-align: center;
+
+        & > .aside-container {
+            margin: auto;
+        }
+    }
+
+    main {
+        grid-row: 2;
+        overflow: unset;
+        padding: 1.5rem;
+        margin: auto;
     }
 }
