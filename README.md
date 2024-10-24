@@ -53,7 +53,7 @@ The form's styling is handled using CSS with the following files:
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```bash git clone https://github.com/eduardapontel/application-form.git```
+   ```git clone https://github.com/eduardapontel/application-form.git```
 
 - Open `index.html` in your browser.
 
