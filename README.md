@@ -12,7 +12,7 @@ The layout showcases the structure, color scheme, and visual design of the webpa
 
 <br> 
 
-## Project Overview ✨
+## Features ✨
 
 This project includes a form where users can:
 
