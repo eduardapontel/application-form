@@ -57,4 +57,7 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 
 ## Notes 📌
 
-This is a static form created for demonstration purposes. It does not include form submission functionality or backend integration.
+## Notes 📌
+
+This is a front-end project created for demonstration purposes. The form cannot be submitted and does not include backend integration or data persistence.
+
