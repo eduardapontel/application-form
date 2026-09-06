@@ -1,6 +1,9 @@
 # Estrelas do Amanhã Enrollment Form 🌟
 
-Welcome to the **Estrelas do Amanhã** enrollment form! This project features a registration form for a preschool named "Estrelas do Amanhã". It is designed to collect information about children enrolling in the school, including personal details, medical information, and preferences for study shifts and sports activities.
+This project features a responsive registration form for a preschool called "Estrelas do Amanhã". It is designed to collect information about the guardians and children enrolling in the school, including personal details, medical information, and preferences regarding study shifts and sports activities.
+
+This is a front-end demonstration project. The form is for demonstration purposes only and cannot be submitted. It does not have a backend integration or data persistence.
+
 
 <br>
 
@@ -22,16 +25,6 @@ This project includes a form where users can:
 - Enter guardian information, including contact details.
 - Choose enrollment options like study shift and sports preferences.
 - Agree to the school's terms and conditions.
-
-<br>
-
-## HTML Structure 🏗️
-
-The HTML structure consists of:
-
-- A header section with a logo and welcoming message.
-- A main section containing the enrollment form.
-- An aside section with additional information about the school.
 
 <br>
 
@@ -67,4 +60,4 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 
 ## Notes 📌
 
-This form is static and does not include functionality for form submission or backend integration.
+This is a static form created for demonstration purposes. It does not include form submission functionality or backend integration.
