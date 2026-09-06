@@ -2,9 +2,6 @@
 
 This project features a responsive registration form for a preschool called "Estrelas do Amanhã". It is designed to collect information about the guardians and children enrolling in the school, including personal details, medical information, and preferences regarding study shifts and sports activities.
 
-This is a front-end demonstration project. The form is for demonstration purposes only and cannot be submitted. It does not have a backend integration or data persistence.
-
-
 <br>
 
 ## Layout ✏️
